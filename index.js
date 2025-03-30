@@ -8,7 +8,6 @@ import Parser from "rss-parser";
 let text = `# Hi there 👋
 
 ## 📕 Latest Blog Posts
-
 `;
 
 // rss-parser 생성
